@@ -1,0 +1,95 @@
+{
+    "artists":[
+
+        {
+            "id_art": 1,
+            "art_name": "Viento Andino",
+            "genre":"Folclore",
+            "art_desc":"Grupo de música andina y tradicional latinoamericana",
+            "art_img1":"https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80",
+            "art_img2":"https://images.unsplash.com/photo-1522205408450-add114ad53fe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=368f45b0888aeb0b7b08e3a1084d3ede&auto=format&fit=crop&w=1950&q=80"  ,
+            "art_vid":"https://www.youtube.com/watch?v=vqKkqzvOkqY",
+            "art_face":"https://www.facebook.com/grupo.viento.andino",
+            "art_insta":"https://www.instagram.com/viento_andino",
+            "art_yt":"https://www.youtube.com/@grupovientoandinosalta-arg3249",
+            "art_demo":"",
+            "art_tel":"387446771",
+            "art_email":"email@email.com"      
+        },
+        {
+            "id_art": 2,
+            "art_name": "El Repique",
+            "genre":"Folclore",
+            "art_desc":"Grupo de música tradicional folclorica",
+            "art_img1":"https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80",
+            "art_img2":"https://images.unsplash.com/photo-1522205408450-add114ad53fe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=368f45b0888aeb0b7b08e3a1084d3ede&auto=format&fit=crop&w=1950&q=80"  ,
+            "art_vid":"https://www.youtube.com/watch?v=vqKkqzvOkqY",
+            "art_face":"https://www.facebook.com/grupo.viento.andino",
+            "art_insta":"https://www.instagram.com/viento_andino",
+            "art_yt":"https://www.youtube.com/@grupovientoandinosalta-arg3249",
+            "art_demo":"",
+            "art_tel":"387446771",
+            "art_email":"email@email.com"      
+        },
+        {
+            "id_art": 3,
+            "art_name": "Karicia",
+            "genre":"Tropical",
+            "art_desc":"Grupo de música tropical. Cumbia",
+            "art_img1":"https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80",
+            "art_img2":"https://images.unsplash.com/photo-1522205408450-add114ad53fe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=368f45b0888aeb0b7b08e3a1084d3ede&auto=format&fit=crop&w=1950&q=80"  ,
+            "art_vid":"https://www.youtube.com/watch?v=vqKkqzvOkqY",
+            "art_face":"https://www.facebook.com/grupo.viento.andino",
+            "art_insta":"https://www.instagram.com/viento_andino",
+            "art_yt":"https://www.youtube.com/@grupovientoandinosalta-arg3249",
+            "art_demo":"",
+            "art_tel":"387446771",
+            "art_email":"email@email.com"      
+        },
+        {
+            "id_art": 4,
+            "art_name": "Gustavo Flores",
+            "genre":"Tango",
+            "art_desc":"Solista vocal de Tango",
+            "art_img1":"https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80",
+            "art_img2":"https://images.unsplash.com/photo-1522205408450-add114ad53fe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=368f45b0888aeb0b7b08e3a1084d3ede&auto=format&fit=crop&w=1950&q=80"  ,
+            "art_vid":"https://www.youtube.com/watch?v=vqKkqzvOkqY",
+            "art_face":"https://www.facebook.com/grupo.viento.andino",
+            "art_insta":"https://www.instagram.com/viento_andino",
+            "art_yt":"https://www.youtube.com/@grupovientoandinosalta-arg3249",
+            "art_demo":"",
+            "art_tel":"387446771",
+            "art_email":"email@email.com"      
+        },
+        {
+            "id_art": 5,
+            "art_name": "Gauchos de Acero",
+            "genre":"Rock",
+            "art_desc":"Grupo de rock",
+            "art_img1":"https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80",
+            "art_img2":"https://images.unsplash.com/photo-1522205408450-add114ad53fe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=368f45b0888aeb0b7b08e3a1084d3ede&auto=format&fit=crop&w=1950&q=80"  ,
+            "art_vid":"https://www.youtube.com/watch?v=vqKkqzvOkqY",
+            "art_face":"https://www.facebook.com/grupo.viento.andino",
+            "art_insta":"https://www.instagram.com/viento_andino",
+            "art_yt":"https://www.youtube.com/@grupovientoandinosalta-arg3249",
+            "art_demo":"",
+            "art_tel":"387446771",
+            "art_email":"email@email.com"      
+        },
+        {
+            "id_art": 6,
+            "art_name": "Payaso Acuarela",
+            "genre":"Otros",
+            "art_desc":"Show Humoristico",
+            "art_img1":"https://images.unsplash.com/photo-1520342868574-5fa3804e551c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ff92caffcdd63681a35134a6770ed3b&auto=format&fit=crop&w=1951&q=80",
+            "art_img2":"https://images.unsplash.com/photo-1522205408450-add114ad53fe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=368f45b0888aeb0b7b08e3a1084d3ede&auto=format&fit=crop&w=1950&q=80"  ,
+            "art_vid":"https://www.youtube.com/watch?v=vqKkqzvOkqY",
+            "art_face":"https://www.facebook.com/grupo.viento.andino",
+            "art_insta":"https://www.instagram.com/viento_andino",
+            "art_yt":"https://www.youtube.com/@grupovientoandinosalta-arg3249",
+            "art_demo":"",
+            "art_tel":"387446771",
+            "art_email":"email@email.com"      
+        }
+    ]
+}
