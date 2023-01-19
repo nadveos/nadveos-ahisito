@@ -1,5 +1,5 @@
 {
-    "artists":[
+   
 
         {
             "id_art": 1,
@@ -91,5 +91,5 @@
             "art_tel":"387446771",
             "art_email":"email@email.com"      
         }
-    ]
+    
 }
